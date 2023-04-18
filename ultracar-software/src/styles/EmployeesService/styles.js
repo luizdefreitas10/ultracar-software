@@ -87,6 +87,7 @@ export const ServiceContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   width: 20%;
   height: 50%;
   background-color: rgb(40, 41, 43);

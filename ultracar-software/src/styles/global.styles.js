@@ -60,7 +60,7 @@ const GlobalStyles = createGlobalStyle`
     }
 
     ::-webkit-scrollbar-track {
-      background: #fff;
+      background: aliceblue;
     }
 
     ::-webkit-scrollbar-thumb {
